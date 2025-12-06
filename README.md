@@ -27,7 +27,7 @@ Bu repo en sade haliyle iki ana klasörden oluşur:
 
 ## 🚫 Anayasa (Kurallar)
 1.  **Kopyala-Yapıştır Yasak:** Kodun veya sunumun mantığını anlamadan yapıştırmak, takımdan ihraç sebebidir.
-2.  **Yapay Zeka Politikası:** AI araçlarını (ChatGPT, Claude vb.) kullanmak serbesttir ancak **yasak savmak için değil, öğrenmek için** kullanılmalıdır. Çıktıyı kontrol etmeden atan sorumlu tutulur.
+2.  **Yapay Zeka Politikası:** AI araçlarını (ChatGPT, Claude vb.) kullanmak serbesttir ancak çıktıyı kontrol etmeden atan sorumlu tutulur.
 3.  **Profesyonellik:** Commit mesajlarınız açıklayıcı olmalıdır. (Örn: `feat: Task-00 sunumu eklendi` ✅ | `dosya attim` ❌).
 4.  **Format:** Aksi belirtilmedikçe sunumlar **PDF** formatında yüklenmelidir.
 
